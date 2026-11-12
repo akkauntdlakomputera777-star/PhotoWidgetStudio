@@ -1,5 +1,5 @@
 package com.example.photowidgetstudio
-
+import android.app.AlertDialog
 import android.app.Activity
 import android.appwidget.AppWidgetManager
 import android.content.ComponentName
